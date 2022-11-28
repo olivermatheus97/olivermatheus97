@@ -2,7 +2,7 @@
 
 - 🔭 Estou apenas estudando. 
 - 📫 math.poliveira97@gmail.com / https://www.instagram.com/olivermatth97/
-- ⚡ Fun fact: Sou muito bom em lol, kekw e faço lives quando tenho tempo 
+- ⚡ Fun fact: Sou muito bom em games, kekw e faço lives quando tenho tempo 
 
 <div align="center">
   <a href="https://github.com/olivermatheus97">
