@@ -4,13 +4,6 @@
 - 📫 math.poliveira97@gmail.com / https://www.instagram.com/olivermatth97/
 - ⚡ Fun fact: Sou muito bom em games, kekw e faço lives quando tenho tempo 
 
-<div align="center">
-  <a href="https://github.com/olivermatheus97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olivermatheus97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivermatheus97&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Math-otaku" src="https://cdn.discordapp.com/attachments/554019374571454506/1046758940559556720/download20221101085605_resized.png">
-</div>
-
 
 ##
 
